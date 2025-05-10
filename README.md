@@ -4,6 +4,10 @@
 - 💻 Tenho interesse na Programação e Cibersegurança
 
 
+<p align="center">
+  <img src="https://github.com/AlissonLima5/alissonlima5/raw/a6b34721fe997b6c0fbd5618a6c8925b84eacacc/ezgif.com-optimize_Mr.Robot.gif" alt="Mr. Robot GIF" width="700" />
+</p>
+
 ### 📊 Estatísticas
 
 <p>
@@ -24,6 +28,4 @@
 
 </p>
 
-### 📗 Linguagens
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20" />
