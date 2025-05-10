@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/AlissonLima5/alissonlima5/raw/a6b34721fe997b6c0fbd5618a6c8925b84eacacc/ezgif.com-optimize_Mr.Robot.gif" alt="Mr. Robot GIF" width="700" />
+  <img src="https://github.com/AlissonLima5/alissonlima5/raw/a6b34721fe997b6c0fbd5618a6c8925b84eacacc/ezgif.com-optimize_Mr.Robot.gif" alt="Mr. Robot GIF" width="500" />
 </p>
 
 ### 📊 Estatísticas
