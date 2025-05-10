@@ -43,4 +43,6 @@
 
 </p>
 
-
+<div aligh=center>
+<img src="https://raw.githubusercontent.com/AlissonLima5/alissonlima5/output/snake.svg" alt="Snake animation" />
+</div>
