@@ -22,7 +22,7 @@
 </p>
 
 
-### 📊 Estatísticas
+### 📊 Estatísticas:
 
 <p>
   <img 
