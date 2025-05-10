@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=524&lines=Ola!+Me+chamo+Alisson!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=524&lines=Bem-vindo(a):+ao+meu+perfil!" alt="Typing SVG">
   </a>
 </div>
 
@@ -19,8 +19,6 @@
 </p>
 
 
-#
-
 </p>
 
 
@@ -31,7 +29,7 @@
     align="left" 
     alt="GitHub Stats" 
     height="150" 
-    style="padding-right: 10px;" 
+    style="padding-right: 20px;" 
     src="https://github-readme-stats.vercel.app/api?username=AlissonLima5&show_icons=true&theme=chartreuse-dark&include_all_commits=true&locale=pt-br" 
   />
 
