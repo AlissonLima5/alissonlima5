@@ -61,3 +61,14 @@
 <div aligh=center>
 <img src="https://raw.githubusercontent.com/AlissonLima5/alissonlima5/output/snake.svg" alt="Snake animation" />
 </div>
+
+#
+
+<div align="center">
+  <br>
+  <p align="center"><b>Total de Visitantes</b></p>  
+  <p align="center">
+    <img align="center" src="https://profile-counter.glitch.me/alissonlima5/count.svg" />
+  </p> 
+  <br>
+</div>
