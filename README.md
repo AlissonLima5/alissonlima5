@@ -37,9 +37,23 @@
 
 <div align="center" style="display: inline_block"><br>
   <p>As linguagens que eu uso:</p>
-  <a href="https://github.com/alissonlima5"><img align="center" alt="PYTHON-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></a> 
+  <a href="https://github.com/alissonlima5"><img align="center" alt="PYTHON-logo" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></a> 
 </div>
 
+#
+
+<div align="center" style="display: inline_block"><br>
+  <p>Softwares de edição que eu uso:</p>
+  <a href="https://www.vegascreativesoftware.com/pt-br/vegas-pro/">
+    <img align="center" alt="Vegas Pro" height="40" width="40" src="https://github.com/AlissonLima5/alissonlima5/blob/0faeda40c9a51952f373a20190816e469794c0da/Icons/Sony_Vegas_Pro_Icon.png?raw=true">
+  </a> 
+  <a href="https://www.adobe.com/br/products/photoshop.html">
+    <img align="center" alt="Photoshop" height="40" width="40" src="https://github.com/AlissonLima5/alissonlima5/blob/817503a9ed6675bacaa665c0ff38da4d11e3c2c7/Icons/Adobe_Photoshop_CC_Icon.png?raw=true">
+  </a>
+  <a href="https://www.canva.com/">
+    <img align="center" alt="Canva" height="40" width="40" src="https://github.com/AlissonLima5/alissonlima5/blob/a64f8730de09f2ccb4ead0baa3462f088313a984/Icons/Canva_Icon.png?raw=true">
+  </a>
+</div>
 
 
 #
