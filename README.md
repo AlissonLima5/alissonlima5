@@ -22,26 +22,27 @@
 </p>
 
 
+#
+
 ### 📊 Estatísticas:
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 20px;" 
-    src="https://github-readme-stats.vercel.app/api?username=AlissonLima5&show_icons=true&theme=chartreuse-dark&include_all_commits=true&locale=pt-br" 
-  />
+<div align="center">
+  <a href="https://github.com/alissonlima5">
+    <img height="140" src="https://github-readme-stats.vercel.app/api?username=alissonlima5&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&bg_color=000000&text_color=00FF00"/>
+    <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonlima5&layout=compact&langs_count=16&theme=github_dark&bg_color=000000&text_color=00FF00"/>
+  </a>
+</div>
+
+#
+
+<div align="center" style="display: inline_block"><br>
+  <p>As linguagens que eu uso:</p>
+  <a href="https://github.com/alissonlima5"><img align="center" alt="PYTHON-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></a> 
+</div>
 
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonLima5&theme=chartreuse-dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
-</p>
+#
 
 <div aligh=center>
 <img src="https://raw.githubusercontent.com/AlissonLima5/alissonlima5/output/snake.svg" alt="Snake animation" />
